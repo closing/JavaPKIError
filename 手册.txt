@@ -1,0 +1,5 @@
+1.
+InstallCertProxy$SavingTrustManager.class
+InstallCertProxy.class
+2.java -Dhttps.proxyHost=server -Dhttps.proxyPort=8080 InstallCertProxy spring.io changeit
+
